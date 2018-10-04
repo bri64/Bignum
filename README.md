@@ -1,6 +1,4 @@
 ```
-#!c
-
 // Main functions
 void printBignum(bignum array);	                            // Prints the bignum and newline
 bignum newBignum();	                                        // Returns a bignum set to 0
